@@ -2,3 +2,7 @@
 
 
 - este es mi proyecto alura
+
+- para ejecutar el sistema debes poner
+
+  ```npm i react```
